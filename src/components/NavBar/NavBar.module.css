@@ -1,0 +1,9 @@
+.mainDiv {
+    background-color: dodgerblue;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 10px;
+
+}
+
+@media screen and (max-width: 480px) {}
